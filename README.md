@@ -9,6 +9,16 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jaovp&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaovp&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<!-- Card de Estatísticas Gerais -->
+<img src="https://github-stats-extended.vercel.app/api?username=Jaovp&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false" /><br/>
+
+<!-- Card de Streak (Dias Seguidos) -->
+<img src="https://vercel.app" /><br/>
+
+<!-- Card de Linguagens Mais Usadas -->
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jaovp&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Jaovp&icon=8&color=1)](https://visitcount.itsvg.in)
